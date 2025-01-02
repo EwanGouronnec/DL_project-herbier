@@ -11,7 +11,7 @@ from PySide6.QtGui import QPixmap, QImage
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model, preprocess = clip.load("ViT-B/32", device=device)
 
-# 加载描述文件
+# Charger le fichier des descriptions
 with open('descriptions.json') as jsonfile:
     descriptions = json.load(jsonfile)
 
@@ -21,25 +21,25 @@ class Window_run(QMainWindow, Ui_MainWindow):
         self.setupUi(self)
         self.parent = parent
 
-        # 为搜索按钮绑定事件
+        # Connecter l'événement du bouton de recherche
         self.searchButton.clicked.connect(self.startSearch)
     
     def startSearch(self):
-        # 从搜索框中获取用户输入
+        # Obtenir la saisie de l'utilisateur depuis la barre de recherche
         query = self.lineEdit.text().strip()
-        print(query)
+        #print(query)
         if not query:
             return
 
-        # 计算输入文本的特征向量
+        # Calculer le vecteur de caractéristiques du texte saisi
         text_features = clip.tokenize([query]).to(device)
         with torch.no_grad():
             text_features = model.encode_text(text_features).float()
         
-        # 搜索图片
+        # Rechercher l'image correspondante
         best_match_path, best_score = self.searchImage(text_features)
 
-        # 如果找到匹配的图片，则在界面中显示
+        # Si une image correspondante est trouvée, l'afficher dans l'interface
         if best_match_path:
             self.displayImage(best_match_path)
 
@@ -52,12 +52,12 @@ class Window_run(QMainWindow, Ui_MainWindow):
             if not os.path.exists(image_path):
                 continue
         
-            # 读取图片并转换为 PIL.Image 格式
-            from PIL import Image  # 确保导入 PIL 库
-            image = Image.fromarray(cv2.imread(image_path)[:, :, ::-1])  # 将 numpy 转换为 PIL.Image
-            image = preprocess(image).unsqueeze(0).to(device)  # 预处理并转换为张量
+            # Lire l'image et la convertir au format PIL.Image
+            from PIL import Image  # Assurer que la bibliothèque PIL est importée
+            image = Image.fromarray(cv2.imread(image_path)[:, :, ::-1])  # Convertir numpy en PIL.Image
+            image = preprocess(image).unsqueeze(0).to(device)  # Prétraiter et convertir en tenseur
 
-            # 计算文本与图片特征之间的相似性
+            # Calculer la similarité entre les caractéristiques du texte et de l'image
             with torch.no_grad():
                 image_features = model.encode_image(image).float()
             similarity = (text_features @ image_features.T).squeeze().item()
