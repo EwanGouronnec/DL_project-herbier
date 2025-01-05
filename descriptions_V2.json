@@ -1,0 +1,1766 @@
+[
+    {
+        "code":"ANG000419_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG002056_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005088_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005330_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG005458_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG005488_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG005510_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005659_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005673_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005828_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005851_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005906_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005996_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006098_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006129_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006136_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006212_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006235_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006312_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG006430_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006433_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006460_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006478_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006480_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006495_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006643_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006690_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006693_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006752_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006795_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006961_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007029_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007040_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007255_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007627_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007656_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007663_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007830_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG008037_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG008057_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG008065_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG008071_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG008090_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG008332_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015003_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015035_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015189_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015193_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015260_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015263_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015279_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015284_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015321_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015384_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015386_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG015531_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015579_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015672_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG015700_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG015754_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG015892_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015930_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG015936_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015978_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015997_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG016046_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG016057_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG016137_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG016296_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG070399_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071222_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071397_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071489_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071527_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071608_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071622_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071692_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071718_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG071967_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG071983_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081019_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081056_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG081284_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081327_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081466_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081488_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081760_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081803_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081856_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG082160_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG082196_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG083147_1",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF043980_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ALF044014_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ALF044608_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044610_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF046447_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF046482_1",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"AUR03928_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"AUR03991_1",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG000419_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG002056_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005088_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005330_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG005458_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG005488_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG005510_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005659_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005673_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005828_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005851_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005906_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG005996_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006098_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006129_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006136_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006212_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006235_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006312_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG006430_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006433_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006460_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006478_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006480_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006495_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006643_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006690_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006693_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006752_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006795_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG006961_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007029_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007040_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007255_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007627_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007656_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007663_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG007830_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG008037_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG008057_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG008065_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG008071_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG008090_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG008332_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015003_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015035_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015189_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015193_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015260_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015263_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015279_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015284_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015321_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015384_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015386_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG015531_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015579_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015672_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG015700_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG015754_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG015892_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015930_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG015936_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015978_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG015997_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG016046_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG016057_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG016137_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG016296_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG070399_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071222_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071397_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071489_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071527_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071608_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071622_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071692_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG071718_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG071967_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG071983_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081019_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081056_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG081284_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081327_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081466_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081488_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081760_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081803_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG081856_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG082160_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG082196_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG083147_2",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF043980_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ALF044014_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ALF044608_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044610_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF046447_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF046482_2",
+        "epines":true,
+        "feuille_ext_acuminee":true,
+        "description":"A plant with thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"AUR03928_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"AUR03991_2",
+        "epines":true,
+        "feuille_ext_acuminee":false,
+        "description":"A plant with thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3_4",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3_4",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3_4",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3_4",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3_4",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3_4",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3_4_5",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3_4_5",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3_4_5",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3_4_5",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3_4_5",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3_4_5",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3_4_5_6",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3_4_5_6",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3_4_5_6",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3_4_5_6",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3_4_5_6",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3_4_5_6",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3_4_5_6_7",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3_4_5_6_7",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3_4_5_6_7",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3_4_5_6_7",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3_4_5_6_7",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3_4_5_6_7",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3_4_5_6_7_8",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3_4_5_6_7_8",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3_4_5_6_7_8",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3_4_5_6_7_8",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3_4_5_6_7_8",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3_4_5_6_7_8",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3_4_5_6_7_8_9",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3_4_5_6_7_8_9",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3_4_5_6_7_8_9",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3_4_5_6_7_8_9",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3_4_5_6_7_8_9",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3_4_5_6_7_8_9",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3_4_5_6_7_8_9_10",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3_4_5_6_7_8_9_10",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3_4_5_6_7_8_9_10",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3_4_5_6_7_8_9_10",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3_4_5_6_7_8_9_10",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3_4_5_6_7_8_9_10",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3_4_5_6_7_8_9_10_11",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3_4_5_6_7_8_9_10_11",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3_4_5_6_7_8_9_10_11",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3_4_5_6_7_8_9_10_11",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3_4_5_6_7_8_9_10_11",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3_4_5_6_7_8_9_10_11",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3_4_5_6_7_8_9_10_11_12",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3_4_5_6_7_8_9_10_11_12",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3_4_5_6_7_8_9_10_11_12",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3_4_5_6_7_8_9_10_11_12",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3_4_5_6_7_8_9_10_11_12",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3_4_5_6_7_8_9_10_11_12",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3_4_5_6_7_8_9_10_11_12_13",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3_4_5_6_7_8_9_10_11_12_13",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3_4_5_6_7_8_9_10_11_12_13",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3_4_5_6_7_8_9_10_11_12_13",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3_4_5_6_7_8_9_10_11_12_13",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3_4_5_6_7_8_9_10_11_12_13",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_1_0_1_2_3_4_5_6_7_8_9_10_11_12_13_14",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_1_0_1_2_3_4_5_6_7_8_9_10_11_12_13_14",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_1_0_1_2_3_4_5_6_7_8_9_10_11_12_13_14",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    },
+    {
+        "code":"ANG029496_2_0_1_2_3_4_5_6_7_8_9_10_11_12_13_14",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ANG083147_2_0_1_2_3_4_5_6_7_8_9_10_11_12_13_14",
+        "epines":false,
+        "feuille_ext_acuminee":true,
+        "description":"A plant without thorns. Its leaves are acuminate."
+    },
+    {
+        "code":"ALF044006_2_0_1_2_3_4_5_6_7_8_9_10_11_12_13_14",
+        "epines":false,
+        "feuille_ext_acuminee":false,
+        "description":"A plant without thorns. Its leaves are not acuminate."
+    }
+]
