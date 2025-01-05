@@ -1,0 +1,5 @@
+pandas
+torch
+matplotlib
+opencv-python
+open_clip_torch
