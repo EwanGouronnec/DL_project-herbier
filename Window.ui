@@ -1,91 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>MainWindow</class>
- <widget class="QMainWindow" name="MainWindow">
+ <class>SearchEngine</class>
+ <widget class="QDialog" name="SearchEngine">
   <property name="geometry">
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>632</width>
+    <height>377</height>
    </rect>
   </property>
-  <property name="minimumSize">
-   <size>
-    <width>400</width>
-    <height>4</height>
-   </size>
-  </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Dialog</string>
   </property>
-  <widget class="QWidget" name="centralwidget">
-   <layout class="QHBoxLayout" name="horizontalLayout_3">
-    <item>
-     <layout class="QVBoxLayout" name="verticalLayout">
-      <item>
-       <layout class="QHBoxLayout" name="horizontalLayout_2">
-        <item>
-         <widget class="QLineEdit" name="lineEdit">
-          <property name="locale">
-           <locale language="French" country="France"/>
-          </property>
-          <property name="inputMask">
-           <string/>
-          </property>
-          <property name="text">
-           <string/>
-          </property>
-          <property name="placeholderText">
-           <string>Insérez quelques mots pour rechercher des images…</string>
-          </property>
-         </widget>
-        </item>
-        <item>
-         <widget class="QPushButton" name="searchButton">
-          <property name="locale">
-           <locale language="French" country="France"/>
-          </property>
-          <property name="text">
-           <string>Rechercher</string>
-          </property>
-         </widget>
-        </item>
-       </layout>
-      </item>
-      <item>
-       <widget class="QScrollArea" name="scrollArea">
-        <property name="locale">
-         <locale language="French" country="France"/>
-        </property>
-        <property name="widgetResizable">
-         <bool>true</bool>
-        </property>
-        <widget class="QWidget" name="scrollAreaWidgetContents">
-         <property name="geometry">
-          <rect>
-           <x>0</x>
-           <y>0</y>
-           <width>778</width>
-           <height>546</height>
-          </rect>
-         </property>
-         <layout class="QHBoxLayout" name="horizontalLayout">
-          <item>
-           <widget class="QWidget" name="widget" native="true">
-            <property name="locale">
-             <locale language="French" country="France"/>
-            </property>
-           </widget>
-          </item>
-         </layout>
-        </widget>
-       </widget>
-      </item>
-     </layout>
-    </item>
-   </layout>
-  </widget>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0" colspan="2">
+    <widget class="QLineEdit" name="SearchEdit">
+     <property name="text">
+      <string>Enter your query here</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="2">
+    <widget class="QPushButton" name="SearchButton">
+     <property name="text">
+      <string>Search</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0">
+    <widget class="QLineEdit" name="Information">
+     <property name="minimumSize">
+      <size>
+       <width>150</width>
+       <height>0</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>Search information</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="1">
+    <widget class="QPushButton" name="ZoomIn">
+     <property name="minimumSize">
+      <size>
+       <width>75</width>
+       <height>0</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>zoom+.png</normaloff>zoom+.png</iconset>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="2">
+    <widget class="QPushButton" name="ZoomOut">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>zoom-.png</normaloff>zoom-.png</iconset>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QLabel" name="Image">
+     <property name="minimumSize">
+      <size>
+       <width>200</width>
+       <height>0</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border: 2px solid black;  /* Crée une bordure noire de 2px autour de l'image */
+border-radius: 10px;      /* Arrondir les coins du cadre */</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="1" colspan="2">
+    <widget class="QLabel" name="label">
+     <property name="minimumSize">
+      <size>
+       <width>250</width>
+       <height>300</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border: 2px solid black;  /* Crée une bordure noire de 2px autour de l'image */
+border-radius: 10px;      /* Arrondir les coins du cadre */</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+  </layout>
  </widget>
  <resources/>
  <connections/>
