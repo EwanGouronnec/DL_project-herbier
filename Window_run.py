@@ -1,14 +1,13 @@
-from PySide6.QtWidgets import QApplication, QMainWindow, QLabel
-import PySide6
-import sys, os
-from Window_ui import SearchEngine  # Remplacez par le bon nom du fichier contenant SearchEngine
+from Window_ui import Ui_MainWindow
+from PySide6.QtWidgets import QApplication, QMainWindow, QLabel, QVBoxLayout
+from PySide6.QtCore import Qt
 import torch
 import clip
 import cv2
+import os, sys
 import json
-from PySide6.QtGui import QPixmap
+from PySide6.QtGui import QPixmap, QImage
 
-# Charger le modèle CLIP
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model, preprocess = clip.load("ViT-B/32", device=device)
 
@@ -16,27 +15,19 @@ model, preprocess = clip.load("ViT-B/32", device=device)
 with open('descriptions.json') as jsonfile:
     descriptions = json.load(jsonfile)
 
-class Window_run(QMainWindow):
-    def __init__(self):
+class Window_run(QMainWindow, Ui_MainWindow):
+    def __init__(self, parent=None):
         super().__init__()
-        self.label = QLabel(self)
-        self.search_window = SearchEngine()
-        self.setCentralWidget(self.search_window)
-        
-        self.pixmap = None
-        self.zoom_factor = 1.0
+        self.setupUi(self)
+        self.parent = parent
 
-        # Connexion du bouton SearchButton à la méthode startSearch
-        self.search_window.SearchButton.clicked.connect(self.startSearch)
-        
-        # Ajouter les boutons Zoom In et Zoom Out
-        self.search_window.ZoomIn.clicked.connect(self.zoom_in)
-        self.search_window.ZoomOut.clicked.connect(self.zoom_out)
-        
+        # Connecter l'événement du bouton de recherche
+        self.searchButton.clicked.connect(self.startSearch)
     
     def startSearch(self):
-        """Effectuer la recherche d'image à partir de la saisie utilisateur."""
-        query = self.search_window.SearchEdit.text().strip()
+        # Obtenir la saisie de l'utilisateur depuis la barre de recherche
+        query = self.lineEdit.text().strip()
+        #print(query)
         if not query:
             return
 
@@ -44,76 +35,49 @@ class Window_run(QMainWindow):
         text_features = clip.tokenize([query]).to(device)
         with torch.no_grad():
             text_features = model.encode_text(text_features).float()
-
+        
         # Rechercher l'image correspondante
         best_match_path, best_score = self.searchImage(text_features)
 
-        # Afficher l'image si une correspondance a été trouvée
+        # Si une image correspondante est trouvée, l'afficher dans l'interface
         if best_match_path:
             self.displayImage(best_match_path)
-    
+
     def searchImage(self, text_features):
-        """Rechercher l'image la plus similaire à la requête texte."""
         best_match_path = None
         best_score = -float('inf')
-
-        self.label.clear()
-        print("Recherche en cours, veuillez patienter...")
-
-        c = 0
-
+    
         for desc in descriptions:
             image_path = os.path.join('images', desc['code'] + '.jpg')
             if not os.path.exists(image_path):
                 continue
-
+        
             # Lire l'image et la convertir au format PIL.Image
-            from PIL import Image
-            image = Image.fromarray(cv2.imread(image_path)[:, :, ::-1])
-            image = preprocess(image).unsqueeze(0).to(device)
+            from PIL import Image  # Assurer que la bibliothèque PIL est importée
+            image = Image.fromarray(cv2.imread(image_path)[:, :, ::-1])  # Convertir numpy en PIL.Image
+            image = preprocess(image).unsqueeze(0).to(device)  # Prétraiter et convertir en tenseur
 
-            # Calculer la similarité
+            # Calculer la similarité entre les caractéristiques du texte et de l'image
             with torch.no_grad():
                 image_features = model.encode_image(image).float()
             similarity = (text_features @ image_features.T).squeeze().item()
-
             if similarity > best_score:
                 best_match_path = image_path
                 best_score = similarity
-
-            c += 1
-            print(f"Recherche n° {c} | Meilleur score : {best_score}")
-
+    
         return best_match_path, best_score
-    
-    def displayImage(self, image_path):
-        """Affiche l'image trouvée dans l'interface."""
-        self.pixmap = QPixmap(image_path)
-        self.update_image()
-    
-    def update_image(self):
-        """Met à jour l'affichage de l'image dans self.Image avec le facteur de zoom."""
-        if self.pixmap:
-            scaled_pixmap = self.pixmap.scaled(
-                self.search_window.Image.size() * self.zoom_factor,  # Adapter à la taille de self.Image
-                PySide6.QtCore.Qt.KeepAspectRatio
-            )
-            self.search_window.Image.setPixmap(scaled_pixmap)
-    def zoom_in(self):
-        """Zoom avant sur l'image."""
-        self.zoom_factor *= 1.1
-        self.update_image()
 
-    def zoom_out(self):
-        """Zoom arrière sur l'image."""
-        self.zoom_factor *= 0.9
-        self.update_image()
-    
+    def displayImage(self, image_path):
+        pixmap = QPixmap(image_path)
+        label = QLabel()
+        label.setPixmap(pixmap.scaled(self.scrollArea.width(), self.scrollArea.height(), Qt.KeepAspectRatio))
+        
+        layout = QVBoxLayout(self.widget)
+        layout.addWidget(label)
+        self.widget.setLayout(layout)
+
 if __name__ == "__main__":
-    if not QApplication.instance():
-        app = QApplication([])
-    else:
-        app = QApplication.instance()
-    window = Window_run()
-    window.show()
+    app = QApplication(sys.argv)
+    win = Window_run()
+    win.show()
     sys.exit(app.exec())
